@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Mac\\Home\\Documents\\WorkPlace\\POCs\\AzureB2C\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7589BE-B42A-495A-B510-7F881EE7C6F2}|AzureB2C\\AzureB2C.csproj|c:\\mac\\home\\documents\\workplace\\pocs\\azureb2c\\azureb2c\\azureb2c.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{AD7589BE-B42A-495A-B510-7F881EE7C6F2}|AzureB2C\\AzureB2C.csproj|solutionrelative:azureb2c\\azureb2c.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7589BE-B42A-495A-B510-7F881EE7C6F2}|AzureB2C\\AzureB2C.csproj|c:\\mac\\home\\documents\\workplace\\pocs\\azureb2c\\azureb2c\\azureb2c.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AD7589BE-B42A-495A-B510-7F881EE7C6F2}|AzureB2C\\AzureB2C.csproj|solutionrelative:azureb2c\\azureb2c.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7589BE-B42A-495A-B510-7F881EE7C6F2}|AzureB2C\\AzureB2C.csproj|c:\\mac\\home\\documents\\workplace\\pocs\\azureb2c\\azureb2c\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD7589BE-B42A-495A-B510-7F881EE7C6F2}|AzureB2C\\AzureB2C.csproj|solutionrelative:azureb2c\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AzureB2C",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\WorkPlace\\POCs\\AzureB2C\\AzureB2C\\AzureB2C.csproj",
+              "RelativeDocumentMoniker": "AzureB2C\\AzureB2C.csproj",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\WorkPlace\\POCs\\AzureB2C\\AzureB2C\\AzureB2C.csproj",
+              "RelativeToolTip": "AzureB2C\\AzureB2C.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-27T09:02:47.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\WorkPlace\\POCs\\AzureB2C\\AzureB2C\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "AzureB2C\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\WorkPlace\\POCs\\AzureB2C\\AzureB2C\\MainPage.xaml.cs",
+              "RelativeToolTip": "AzureB2C\\MainPage.xaml.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAiwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T11:45:50.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AzureB2C.csproj",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\WorkPlace\\POCs\\AzureB2C\\AzureB2C\\AzureB2C.csproj",
+              "RelativeDocumentMoniker": "AzureB2C\\AzureB2C.csproj",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\WorkPlace\\POCs\\AzureB2C\\AzureB2C\\AzureB2C.csproj",
+              "RelativeToolTip": "AzureB2C\\AzureB2C.csproj",
+              "ViewState": "AgIAADkAAAAAlpmZmZkuwEcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-26T11:32:33.237Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

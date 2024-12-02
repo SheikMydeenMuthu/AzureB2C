@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="AzureB2C.app/AzureB2C">
+      <IsAppExtension>false</IsAppExtension>
+      <BCSymbolMapName>AzureB2C.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>false</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>false</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>AzureB2C.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/sheik/Documents/WorkPlace/POCs/AzureB2C/AzureB2C/obj/Debug/net8.0-ios/ios-arm64/device-builds/iphone11.8-16.7.1/mtouch-symbols.list</SymbolFile>
+      <DSymName>AzureB2C.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/sheik/Documents/WorkPlace/POCs/AzureB2C/AzureB2C</SourceProjectPath>
+      <IsXPCService></IsXPCService>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>

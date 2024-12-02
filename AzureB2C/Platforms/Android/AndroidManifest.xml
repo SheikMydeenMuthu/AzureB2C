@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application 
+        android:allowBackup="true" 
+        android:icon="@mipmap/appicon" 
+        android:roundIcon="@mipmap/appicon_round" 
+        android:supportsRtl="true">
+
+        <!-- Correct BrowserTabActivity with android:exported for Android 12+ -->
+        <activity 
+            android:name="microsoft.identity.client.BrowserTabActivity"
+            android:exported="true"> <!-- This is the important change -->
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <!-- Replace the scheme with your actual client id -->
+                <data android:scheme="msalfcefe273-17f6-4bf6-ad87-90c5a61b3dc3" android:host="auth" />
+            </intent-filter>
+        </activity>
+
+    </application>
+
+</manifest>

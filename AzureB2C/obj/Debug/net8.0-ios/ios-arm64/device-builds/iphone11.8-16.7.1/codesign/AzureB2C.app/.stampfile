@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign 2C71ED875190B50571F06F1A0E0B796E5A29BE86 --entitlements /Users/sheik/Documents/WorkPlace/POCs/AzureB2C/AzureB2C/obj/Debug/net8.0-ios/ios-arm64/device-builds/iphone11.8-16.7.1/Entitlements.xcent /Users/sheik/Documents/WorkPlace/POCs/AzureB2C/AzureB2C/bin/Debug/net8.0-ios/ios-arm64/device-builds/iphone11.8-16.7.1/AzureB2C.app
