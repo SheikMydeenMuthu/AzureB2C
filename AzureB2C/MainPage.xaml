@@ -13,9 +13,8 @@
                 Aspect="AspectFit"
                 SemanticProperties.Description="dot net bot in a race car number eight" />
 
-            <Button
-                Text="Login With AzureB2C"
-                Clicked="LoginIntoAzureB2C" />
+            <Button Text = "Login with B2C"
+            Clicked="LoginIntoAzureB2C"/>
            
         </VerticalStackLayout>
     </ScrollView>
